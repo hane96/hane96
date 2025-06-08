@@ -44,7 +44,7 @@ Here are some of my recent works where I applied React, TypeScript, and UI desig
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hane96&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hane96&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hane96&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=UnitySimpleTowerDefense" width="45%" />
 </div>
 
 ---
